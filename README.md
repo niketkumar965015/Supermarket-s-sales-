@@ -1,3 +1,5 @@
+# insights
+
 ## 1. Customer Traffic by Branch:
 
 Branch A has the highest customer traffic, followed by Branch B and then Branch C. This suggests that Branch A may be located in a more densely populated area or has better marketing strategies to attract customers.
